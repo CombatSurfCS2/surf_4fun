@@ -1,0 +1,27 @@
+"Layer0"
+{
+	"Shader"		"csgo_unlitgeneric.vfx"
+	"F_UNLIT"		"1"
+	"TextureColor"		"[0.000000 0.113725 0.125490 0.513726]"
+	"F_BLEND_MODE"		"4"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"water"
+	}
+	"legacy_import"
+	{
+		"UnlitGeneric"
+		{
+			"$basetexture"		"dev/water_moving_beneath"
+			"$bumpmap"		"dev/water_normal"
+			"$additive"		"1"
+			"$surfaceprop"		"water"
+			"%compilewater"		"1"
+			"$abovewater"		"0"
+			"$fogenable"		"1"
+			"$fogcolor"		"{150 200 200}"
+			"$fogstart"		"64.000000"
+			"$fogend"		"512.000000"
+		}
+	}
+}

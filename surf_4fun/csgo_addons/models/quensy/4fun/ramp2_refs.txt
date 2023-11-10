@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\quensy\4fun\ramp2\woodwall005a.vmt"
+	"file"	"materials\models\quensy\4fun\ramp2\milflr002.vmt"
+}
