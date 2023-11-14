@@ -7,7 +7,7 @@ Layer0
 	//---- Texture ----
 	g_flBrightnessExposureBias "-1.000"
 	g_flRenderOnlyExposureBias "0.000"
-	SkyTexture "materials/skybox/kloofendal_misty_morning_puresky_1k.exr"
+	SkyTexture "materials/skybox/snow_field_puresky_1k.exr"
 
 
 	VariableState
